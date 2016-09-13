@@ -1,0 +1,27 @@
+/*
+Breakpoints: 
+320px - 375px; GREEN
+376px - 667px; YELLOW
+667px - 1024px; RED
+1024px - 1600px; BLUE
+*/
+/*responsive*/
+@media (min-width: 535px) and (max-width: 824px) {
+	[class*="col-"] {
+		width: 100%;
+	}
+	form{
+		width: 100%;
+	}
+	section{
+		background-color: #69CF5E;
+	}
+	body{
+		font-family:"Courgette";
+	}	
+	.boton{
+		background: #C5DD20;
+		color:#0F0E0E;
+	}
+}
+

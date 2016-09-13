@@ -1,0 +1,85 @@
+/* Tu CSS va aqui */
+/*header*/
+img{
+	width: 20%;
+	margin-left: 210px;
+}
+
+a{
+	text-decoration: none;
+	color: #060606;
+}
+ul{
+	margin-left: 200px;
+}
+
+li{
+	float: left;
+	list-style: none;
+	padding: 10px;
+
+}
+/*header*/
+/*section*/
+section{
+	background:#7B7474;
+	padding: 20px 200px;
+}
+
+.contenido{
+	padding:30px;
+}
+
+h1{
+	color: #FFFFFF;
+	font-size: 40px;
+}
+
+p{
+	color: #fff;
+	text-align:justify;
+	margin-top: 10px;
+}
+
+form{
+	width:450px;
+	margin: auto;
+	background: rgba(0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+}
+
+h2{
+	color:#fff;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+input{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+
+}
+
+.boton{
+	background: #D55050;
+	color:#fff;
+	padding: 20px;
+	font-family: "roboto";
+}
+
+.boton:hover {
+	cursor: pointer;
+}
+/*footer*/
+.footer{
+	color:#131212;
+	margin-left: 210px;
+}
